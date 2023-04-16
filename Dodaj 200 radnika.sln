@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dodaj 200 radnika", "Dodaj 200 radnika\Dodaj 200 radnika.csproj", "{AD4EF3A2-455B-4701-86C9-43654832EF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4EF3A2-455B-4701-86C9-43654832EF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4EF3A2-455B-4701-86C9-43654832EF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4EF3A2-455B-4701-86C9-43654832EF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4EF3A2-455B-4701-86C9-43654832EF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B406948-CB72-444B-910D-2134F04B2565}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\bin\Debug\Dodaj 200 radnika.exe.config
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\bin\Debug\Dodaj 200 radnika.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\bin\Debug\Dodaj 200 radnika.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\obj\Debug\Dodaj 200 radnika.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\obj\Debug\Dodaj 200 radnika.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\obj\Debug\Dodaj_200_radnika.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\obj\Debug\Dodaj_200_radnika.Properties.Resources.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\obj\Debug\Dodaj 200 radnika.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\obj\Debug\Dodaj 200 radnika.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\obj\Debug\Dodaj 200 radnika.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dodaj 200 radnika\Dodaj 200 radnika\obj\Debug\Dodaj 200 radnika.pdb
